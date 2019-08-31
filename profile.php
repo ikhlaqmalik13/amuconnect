@@ -12,6 +12,7 @@
 			width:700px;
 			height:630px;
 			background-color: white;
+			box-shadow:rgba(0, 0, 0, 0.4) 1px 0px 20px 0px, rgba(0, 0, 0, 0.35) 0 0 1px;
 		}
 		.container h2{
 			margin-top:0px;
